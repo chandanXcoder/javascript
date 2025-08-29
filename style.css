@@ -1,5 +1,5 @@
 .navbar{
-    background-color: rgb(93, 8, 8);
+    background:-o-repeating-linear-gradient(to right, #ff7e5f, #feb47b)
     color: white;
     padding: 15px;
     text-align: right;
@@ -18,7 +18,7 @@ body {
     background-color: #f4f4f4;
 }
 .hero {
-    background:-moz-linear-gradient(top, rgb(52, 2, 2);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80') no-repeat center center/cover;
     color: white;
     padding: 100px 20px 50px 20px;
     text-align: center;
